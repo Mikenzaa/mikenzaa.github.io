@@ -1,0 +1,87 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e4e4e4;
+}
+
+#projects {
+    background-color: rgba(1, 39, 81, .9);
+}
+
+#skills h3 {
+    color: black;
+    text-align: center;
+}
+
+#skills .bar {
+    height: 30px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 5px 0 20px 0;
+}
+
+.bar .nilai {
+    height: 30px;
+    background-color: rgba(1, 39, 81, .9);
+    ;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+}
+
+.html {
+    width: 65%;
+}
+
+.css {
+    width: 70%;
+}
+
+.js {
+    width: 20%;
+}
+
+.col-4 {
+    width: 25%;
+    box-sizing: border-box;
+    padding: 5px;
+    float: left;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.col-4 img {
+    width: 100%;
+}
+
+.col-4 a:hover img {
+    transform: scale(1.2)
+}
+
+.col-3 {
+    width: 33.30%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    padding: 50px 10px;
+}
+
+
+.col-3 p a {
+    color: red;
+    text-decoration: none;
+}
+
+.col-3 h5 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 15px;
+}
+
+#contact h3 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+section {
+    padding-top: 5rem;
+}
